@@ -1,8 +1,8 @@
-# C `ls`
+## lls
 
 > Trying re-create the `ls` command in C
 
-## Build
+### Build
 ```
 make
 ```
@@ -25,7 +25,7 @@ or with mingw32
 mingw32-make clean
 ```
 
-## Usage
+### Usage
 
 ```
 lls
